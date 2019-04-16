@@ -42,3 +42,8 @@ print("Pi is approximately {0:72.50f}".format(22 / 7))
 
 for i in range(1, 12):
     print("No. {} squared is {} and cubed is {:4}".format(i, i ** 2, i ** 3))
+
+first_name = "John"
+last_name = "Cleese"
+age = 78
+print(first_name + '  ' + last_name +'  ' + str(age))#STR(AGE) WORKS LIKE PARSiNT()TURN A NUMBER TO A STRING TO ADD THE VALUE OF THAT NUMBER TO A STRING
