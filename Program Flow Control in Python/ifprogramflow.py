@@ -44,3 +44,5 @@ elif guess > 5:
     guess = int(input())
     if guess == 5:   
         print("Well done, you guessed it")    
+    else:
+        print("Sorry, you have not guessed correclty")
