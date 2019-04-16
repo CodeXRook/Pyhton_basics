@@ -21,4 +21,3 @@ print( """The pet shop owner said "No, no,'e's'uh,...he's resting" """)#The pet 
 
 print("Number  1\tThe Larch")# Number  1 The Larch
 print("Number  2\tThe Horse Chestnut")#Number  2 The Horse Chestnut
-
