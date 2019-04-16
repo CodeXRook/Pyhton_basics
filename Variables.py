@@ -36,7 +36,5 @@ print("fri" in today)#TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
 print("thur" in today)#FALSE, THERE IS NO THUR IN FRIDAY // #WORKS IN INTELLIJ
 print("parrot" in "fjord")#FALSE, THERE IS NO SUCH WORD FOUND// #WORKS IN INTELLIJ
 
-# Create five variables,
-# set them to strings that represent 5 common shopping list items 
-#I DID THIS ALREADY, SO TIME I'LL BE DOING THE INPUT SO I BETTER UNDERSTAND THE USAGE.
+
 
