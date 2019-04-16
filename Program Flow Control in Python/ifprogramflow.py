@@ -40,4 +40,6 @@ if guess < 5:
     else:
         print("Sorry, you have not guessed correctly.")
 elif guess > 5:
-    print("Please guess lower")        
+    print("Please guess lower") 
+    guess = int(input())
+    if guess == 5:       
