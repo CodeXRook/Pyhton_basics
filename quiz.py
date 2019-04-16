@@ -76,3 +76,11 @@ we want to slice the string to extract just the digits.
 Which of these slices will NOT do what we want?
 print(data[1:5])
 #This slice will start at position 1, which is the : after 1, up to (but not including) the 2. The result will be :A,
+
+
+#Question 9:
+#The variable flower has been given a value with the code below:
+flower = "blue violet" 
+Which of the following statements will print True
+
+print('blue' in flower)
