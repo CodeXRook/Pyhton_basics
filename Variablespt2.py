@@ -9,4 +9,5 @@ print(str(item_quant_1) + '  '+ item_name_1 +'  ' + str(item_price_1))#WORKS IN 
 
 item_name_2 = input('Add more list')#WORKS IN INTELLIJ
 item_price_2 = input('Add Spending limit')#WORKS IN INTELLIJ
-item_quant_2 = input('How much you need?')
+item_quant_2 = input('How much you need?')#WORKS IN INTELLIJ
+print(str(item_quant_2) + ' ' + item_name_2 + '  ' + str(item_price_2))#WORKS IN INTELLIJ
