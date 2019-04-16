@@ -34,3 +34,5 @@ guess = int(input())
 
 if guess < 5:
     print("Please guess higher")
+    guess = int(input())
+    if guess == 5:
