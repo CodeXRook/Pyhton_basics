@@ -11,3 +11,5 @@ item_name_2 = input('Add more list')#WORKS IN INTELLIJ
 item_price_2 = input('Add Spending limit')#WORKS IN INTELLIJ
 item_quant_2 = input('How much you need?')#WORKS IN INTELLIJ
 print(str(item_quant_2) + ' ' + item_name_2 + '  ' + str(item_price_2))#WORKS IN INTELLIJ
+
+item_name_3 = input('Add more to list')#WORKS IN INTELLIJ
