@@ -20,3 +20,4 @@ print(numbers[0::3])
 string1 = "he's"
 string2 = "probably "
 print(string1 + string2)
+print(string1 + string2)
