@@ -18,3 +18,4 @@ item_quant_3 = input('What was the quantity amount')#WORKS IN INTELLIJ
 print(str(item_quant_3) + ' ' + item_name_3 + '  ' + str(item_price_3))#WORKS IN INTELLIJ
 
 item_name_4 = input('Add more to list')#WORKS IN INTELLIJ
+item_price_4 = input('Spending limit')#WORKS IN INTELLIJ
