@@ -26,4 +26,4 @@ print("My age is %d %s, %d %s" %(age, "years", 6, "months"))#WORKS IN INTELLIJ
 for i in range(1, 12):
     print("No. %2d squared is %4d and cubed is %4d" %(i, i ** 2, i ** 3))#WORKS IN INTELLIJ
 
-print("Pi is approximately %12f" % (22 / 7))#WORKS IN INTELLIJ
+print("Pi is approximately %12f" % (22 / 7))#WORKS IN INTELLIJ #SPECIFY THE PERCISION OF A NUMBER
