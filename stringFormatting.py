@@ -20,3 +20,4 @@ November:{1}
 December:{2}""".format(28, 30, 31))
 
 print("My age is %d years" % age)#WORKS IN INTELLIJ
+print("My age is %d %s, %d %s" %(age, "years", 6, "months"))#WORKS IN INTELLIJ
