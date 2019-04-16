@@ -22,3 +22,21 @@ beans"""
 #What will be the output produced by this line?
 print("Terry\tJohn\tGraham\tMichael\tEric\tTerry")
     #Terry	John	Graham	Michael	Eric	Terry
+
+#Question 4:
+#What will be the output of this program?
+first_name = "John"
+last_name = "Cleese"
+age = 78
+ print(first_name + last_name + age)
+#THIS WI;; THROW ERROR,numerical values can't be added to strings.YOU MUST USE str(age).
+
+
+#Question 5:
+#What result will this program print?
+a = 45
+b = 15
+c = 3
+ 
+print(a - b / c)
+#40.0
