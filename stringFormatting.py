@@ -18,3 +18,5 @@ September:{1}
 October:{1}
 November:{1}
 December:{2}""".format(28, 30, 31))
+
+print("My age is %d years" % age)#WORKS IN INTELLIJ
