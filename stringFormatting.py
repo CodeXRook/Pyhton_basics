@@ -46,4 +46,12 @@ for i in range(1, 12):
 first_name = "John"
 last_name = "Cleese"
 age = 78
-print(first_name + '  ' + last_name +'  ' + str(age))#STR(AGE) WORKS LIKE PARSiNT()TURN A NUMBER TO A STRING TO ADD THE VALUE OF THAT NUMBER TO A STRING
+print(first_name + '  ' + last_name +'  ' + str(age))#STR(AGE) WORKS LIKE PARSiNT()TURN A NUMBER TO A STRING TO ADD THE VALUE OF THAT NUMBER TO A STRING.
+
+#In this program, 2 of the variables will have the same value
+eal1 = "spam" + "eggs" + "beans"
+meal2 = "spam\neggs\nbeans"
+meal3 = "spam, eggs, beans"
+meal4 = """spam
+eggs
+beans"""
