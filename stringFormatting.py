@@ -21,3 +21,7 @@ December:{2}""".format(28, 30, 31))
 
 print("My age is %d years" % age)#WORKS IN INTELLIJ
 print("My age is %d %s, %d %s" %(age, "years", 6, "months"))#WORKS IN INTELLIJ
+
+
+for i in range(1, 12):
+    print("No. %2d squared is %4d and cubed is %4d" %(i, i ** 2, i ** 3))#WORKS IN INTELLIJ
