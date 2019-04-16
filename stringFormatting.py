@@ -27,3 +27,7 @@ for i in range(1, 12):
     print("No. %2d squared is %4d and cubed is %4d" %(i, i ** 2, i ** 3))#WORKS IN INTELLIJ
 
 print("Pi is approximately %12f" % (22 / 7))#WORKS IN INTELLIJ #SPECIFY THE PERCISION OF A NUMBER
+print("Pi is approximately %12.50f" % (22 / 7)) #SPECIFY THE PERCISION OF A NUMBER
+
+for i in range(1, 12):
+    print("No. {0:2} squared is {1:4} and cubed is {2:4}".format(i, i ** 2, i ** 3))

@@ -1,7 +1,7 @@
 
 greeting = "whats up"
 name = "Xrook"
-print(greeting + ' ' + name)#WORKS IN INTELLIJp
+print(greeting + ' ' + name)#WORKS IN INTELLIJ
 
 splitString = "This string has been\nsplit over\nserveral\nlines\nthis is the sixth line\n The change is at the end"
 print(splitString)#WORKS IN INTELLIJ
