@@ -84,3 +84,15 @@ flower = "blue violet"
 Which of the following statements will print True
 
 print('blue' in flower)
+
+
+#Question 10:
+#If flower and colour are defined as:
+
+flower = "rose"
+colour = "red"
+Which of these lines will correctly print
+The rose is red
+
+print("The {0} is {i}.format(flower, colour"))
+#{0} will be replaced with the value of flower, and {1} will be replaced with the value of colour.
