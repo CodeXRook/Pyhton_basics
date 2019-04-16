@@ -56,3 +56,16 @@ Total = total + tax
 print(total)
 #50.0
 #The Total including tax is calculated, but isn't printed. The value of total doesn't include the tax.
+
+
+#Question 7:
+#What will this program print?
+
+days = "Mon, Tue, Wed, Thu, Fri, Sat, Sun"
+print(days[::5])
+
+#MTWTFSS
+#The slice starts at the first character, and includes every 5th character.
+
+
+
