@@ -13,3 +13,6 @@ print(parrot[0::3])
 
 number = "9,223,372,036,854,775,807"
 print(number[1::4])
+
+numbers = "1, 2, 3, 4, 5, 6, 7, 8, 9,"
+print(numbers[0::3])
