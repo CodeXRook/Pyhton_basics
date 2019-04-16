@@ -68,4 +68,11 @@ print(days[::5])
 #The slice starts at the first character, and includes every 5th character.
 
 
+#Question 8:
+#Given the string
 
+data = "1:A, 2:B, 3:C, 4:D, 5:E, 6:F, 7:G, 8:H"
+we want to slice the string to extract just the digits.
+Which of these slices will NOT do what we want?
+print(data[1:5])
+#This slice will start at position 1, which is the : after 1, up to (but not including) the 2. The result will be :A,
