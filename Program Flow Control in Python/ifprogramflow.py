@@ -46,3 +46,5 @@ elif guess > 5:
         print("Well done, you guessed it")    
     else:
         print("Sorry, you have not guessed correclty")
+else:
+    print("You git it right the first time, nice job!")        
