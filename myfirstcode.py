@@ -1,3 +1,5 @@
-greeting = "whats up python"
-name = 'Xrook'
+
+greeting = "whats up"
+name = "Xrook"
 print(greeting + ' ' + name)
+
