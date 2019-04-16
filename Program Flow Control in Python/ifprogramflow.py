@@ -28,3 +28,8 @@ if guess < 5:
     else:
         print("no good") #IT WORKS BUT I WANT TO DO SOMETHING ELSE
 
+#DIFFENT TEST CASE FOR IF, ELSE AND ELIF.
+print("Please guess a number between 1 and 10: ")
+guess = int(input())
+
+
