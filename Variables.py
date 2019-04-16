@@ -8,3 +8,4 @@ print(parrot[0:6])
 print(parrot[0:6]) # 0 is where to start 6 is the length amount
 print(parrot[6:])
 print(parrot[-4:-2])
+print(parrot[0:9:2])
