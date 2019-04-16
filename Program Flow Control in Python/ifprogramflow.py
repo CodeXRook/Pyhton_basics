@@ -42,4 +42,5 @@ if guess < 5:
 elif guess > 5:
     print("Please guess lower") 
     guess = int(input())
-    if guess == 5:       
+    if guess == 5:   
+        print("Well done, you guessed it")    
