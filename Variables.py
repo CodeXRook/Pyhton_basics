@@ -34,3 +34,4 @@ today = "friday"
 print("day" in today) #TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
 print("fri" in today)#TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
 print("thur" in today)#FALSE, THERE IS NO THUR IN FRIDAY // #WORKS IN INTELLIJ
+print("parrot" in "fjord")#FALSE, THERE IS NO SUCH WORD FOUND// #WORKS IN INTELLIJ
