@@ -40,3 +40,19 @@ c = 3
  
 print(a - b / c)
 #40.0
+#b / c will be calculated first, to give 45 - 5.0 Because the division gives a float, the result will also be a float.
+
+
+#Question 6:
+#What output will this program produce?
+
+quantity = 10
+price = 5.0
+total = quantity * price
+tax = total / 5
+ 
+Total = total + tax
+ 
+print(total)
+#50.0
+#The Total including tax is calculated, but isn't printed. The value of total doesn't include the tax.
