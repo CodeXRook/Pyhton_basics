@@ -33,3 +33,4 @@ print("hello " *5 + "4")#PRINT HELLO 5 TIMES THEN ADD 4 AS STRING( hello hello h
 today = "friday"
 print("day" in today) #TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
 print("fri" in today)#TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
+print("thur" in today)#FALSE, THERE IS NO THUR IN FRIDAY // #WORKS IN INTELLIJ
