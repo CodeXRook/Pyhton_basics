@@ -29,3 +29,6 @@ print("hello " *5)#PRINTS HELLO FIVE TIMES // #WORKS IN INTELLIJ
 print("hello " * (5 + 4))#PRINTS HELLO HELLO 5 TIMES PLUS 4 MORE TIMES // #WORKS IN INTELLIJ
 print("hello " *5 + "4")#PRINT HELLO 5 TIMES THEN ADD 4 AS STRING( hello hello hello hello hello 4)//#WORKS IN INTELLIJ
 
+#BASIC OPERATIONS
+today = "friday"
+print("day" in today) #TRUE, THERE IS A DAY IN FRIDAY // #WORKS IN INTELLIJ
