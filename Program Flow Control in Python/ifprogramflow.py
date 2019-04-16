@@ -14,3 +14,17 @@ if age >= 18:
 #USING INPUT TO IN IF AND ELSE
 print("Please guess a number between 1 and 10: ")
 guess = int(input())
+
+if guess < 5:
+    print("Please guess higher")
+    guess = int(input())
+    if guess == 5:
+        print("Well done, you guessed it")
+    if guess > 5:
+        print("Ok Now you're getting close, try again.")
+        guess = int(input())
+    if guess > 5:
+        print("Just start over")
+    else:
+        print("no good") #IT WORKS BUT I WANT TO DO SOMETHING ELSE
+
